@@ -1,4 +1,3 @@
-// Archivo: propiedades.js
 const propiedades_venta = [
     {
         nombre: 'Apartamento de lujo en zona exclusiva',
